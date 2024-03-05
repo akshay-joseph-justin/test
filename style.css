@@ -83,7 +83,7 @@ footer {
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background */
   padding: 20px; /* Add padding for better readability */
-  border-radius: 45px; /* Rounded corners for the caption */
+  border-radius: 0px; /* Rounded corners for the caption */
   text-align: center;
   color: #fff;
 }
